@@ -8,7 +8,7 @@ h3 {
   font-size: 24px;
 }
 
-h4 {
+#byline {
   font-family: Georgia, serif;
   font-size: 16px;
 }
@@ -20,6 +20,6 @@ p {
 }
 
 #content {
-  max-width: 500px;
-  margin: auto;
+  margin: 0 auto;
+  width: 900px;
 }
