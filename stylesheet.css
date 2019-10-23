@@ -1,0 +1,19 @@
+h1 { /*serif*//*include size*/
+  font-family: Georgia, serif;
+  font-size: 32px;
+}
+
+h3 {
+  font-family: Georgia, serif;
+  font-size: 24px;
+}
+
+h4 {
+  font-family: Georgia, serif;
+  font-size: 16px;
+}
+
+p {
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
