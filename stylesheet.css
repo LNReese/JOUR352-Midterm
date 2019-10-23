@@ -37,5 +37,11 @@ blockquote {
 
 img {
   display: block;
-  width: 100%
+  width: 100%;
+}
+
+#captioncredit {
+  font-size: 12px;
+  font-weight: lighter;
+  color: #C8B4AF
 }
